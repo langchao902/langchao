@@ -1,14 +1,10 @@
 {
     "cdnDomainList": [
-        "http://192.168.9.77:16080/",
-        "http://192.168.9.46:16080/",
-        "http://api.kbbc9w.com:16080/",
-        "https://api.sjzxlsm.cn:16080/"
+        "http://ckup.mb3b.com/xvideo/appConfig.json",
+        "http://ckup.awarmhome.cn/xvideo/appConfig.json",
+        "https://langchao902.github.io/langchao/appConfig.json"
     ],
     "loginDomainList": [
-        "http://192.168.9.77:16080/",
-        "http://192.168.9.46:16080/",
-        "http://api.kbbc9w.com:16080/",
         "https://api.sjzxlsm.cn:16080/"
     ]
 }

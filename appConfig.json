@@ -1,8 +1,8 @@
 {
     "cdnDomainList": [
-        "http://ckup.mb3b.com/xvideo/appConfig.json",
-        "http://ckup.awarmhome.cn/xvideo/appConfig.json",
-        "https://langchao902.github.io/langchao/appConfig.json"
+        "http://ckup.mb3b.com/",
+        "http://ckup.awarmhome.cn/",
+        "https://langchao902.github.io/"
     ],
     "loginDomainList": [
         "https://api.sjzxlsm.cn:16080/"

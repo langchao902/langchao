@@ -1,10 +1,16 @@
 {
     "cdnDomainList": [
-        "http://ckup.mb3b.com/",
-        "http://ckup.awarmhome.cn/",
-        "https://langchao902.github.io/"
+        "http://ckup.mb3b.com",
+        "http://ckup.awarmhome.cn",
+        "https://langchao902.github.io"
     ],
     "loginDomainList": [
-        "https://api.sjzxlsm.cn:16080/"
-    ]
+        "https://api.sjzxlsm.cn"
+    ],
+    "cdnSwitchMap": {
+        "aws": "https://vdo.7luba.com",
+        "cf": "https://lc.43au6f.com"
+    },
+    "getIPInfo": "http://pv.sohu.com/cityjson?ie=utf-8",
+    "myIPInfo": "http://ip-api.com/json"
 }
